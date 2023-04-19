@@ -1,6 +1,0 @@
-Data Peserta Sanbercode Bootcamp ReactJS
-1. Nama: Christian Vieri Palebangan
-2. Email: christianpalebangan99@gmail.com
-3. Sistem Operasi yang digunakan: Windows 10
-4. Akun Gitlab: christian903
-5. Akun Telegram: christianvieri9
